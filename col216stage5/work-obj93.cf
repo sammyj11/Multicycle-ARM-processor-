@@ -1,0 +1,7 @@
+v 4
+file . "decoderSatge4.vhdl" "615d17b50ad398d98e43cc1edc2f2ca9366541b9" "20220313125843.744":
+  entity decoder at 1( 0) + 0 on 13;
+  architecture behavioral of decoder at 17( 386) + 0 on 14;
+file . "mytypes.vhdl" "98d4998427e4db951869998947d6b212b7d6bfcf" "20220313125826.856":
+  package mytypes at 1( 0) + 0 on 11;
+  package body mytypes at 17( 666) + 0 on 12;
